@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(169, 169, 169);
+    color: rgb(0, 0, 0);
+}
+
+button {
+    color: black;
+    text-color: white;
+}
